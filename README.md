@@ -1,0 +1,1 @@
+# This project is a full-stack ToDo application that leverages OpenAI for task summarization and integrates with Slack for notifications. It features a React-based frontend and a Node.js/Express backend with a PostgreSQL database.
